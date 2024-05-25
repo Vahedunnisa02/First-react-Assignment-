@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+.wrapper{
+  background-color: lightblue;
+  width: 45%;
+  margin: auto;
+  margin-top: 10%;
+  border: 1px solid black;
+}
+h1{
+  font-size: 40px;
+  width: 600px;
+  margin:20px;
+}
+p{
+  margin:20px;
+  font-size: 20px;
+  width: 600px;
+}
